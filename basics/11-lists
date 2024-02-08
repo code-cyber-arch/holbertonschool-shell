@@ -1,2 +1,2 @@
 #!/bin/bash
-eval "$(printf '%s\n' 'ls -la' 'ls -la -' 'ls -la /boot')"
+eval "$(printf '%s\n' 'ls -la' 'ls -la ..' 'ls -la /boot')"
